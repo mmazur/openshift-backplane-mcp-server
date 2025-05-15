@@ -1,0 +1,15 @@
+{
+  "globalShortcut": "",
+  "mcpServers": {
+    "openshift-backplane": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        ".",
+        "run",
+	"main.py"
+      ]
+    }
+  }
+
+}
